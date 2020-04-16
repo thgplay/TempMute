@@ -1,0 +1,5 @@
+hostname: 'localhost'
+port: 3306
+database: 'server'
+username: 'root'
+password: ''

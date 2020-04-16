@@ -1,0 +1,5 @@
+name: TempMute
+version: 1.0-SNAPSHOT
+authors: [THG]
+description: Plugin made to mute / unmute players for Senior Teams test.
+main: com.tke.mute.TempMute
